@@ -1,7 +1,7 @@
 // MARK: Group
 
 struct WorldCup2022 {
-    let group_A = ["Brazil", "Netherdlands", "Japan", "United States", "Argentina"]
+    let group_A = ["Brazil", "Netherlands", "Japan", "United States", "Argentina"]
     let group_B = ["Italy", "Chile", "Germany", "Portugal", "South Africa"]
 }
 
